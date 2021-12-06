@@ -1,0 +1,14 @@
+section * {
+  display: block;
+  padding: 5px;
+  margin: 15px;
+  border: 1px solid black;
+}
+section {
+  border: 1px solid black;
+}
+
+body {
+  text-transform: capitalize;
+  color: rgb(55, 0, 255);
+}
